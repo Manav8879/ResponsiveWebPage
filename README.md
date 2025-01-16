@@ -12,10 +12,15 @@ The project consists of the following files:
 
 
 Football-Fanatics
+
 │
+
 ├── index1.html           # Main HTML file
+
 ├── styles1.css           # CSS styles for the webpage
+
 ├── scripts1.js           # JavaScript for functionality and dynamic resizing
+
 └── football.jpg          # Image used for the "Football" content
 Prerequisites
 To run this project, you need:
