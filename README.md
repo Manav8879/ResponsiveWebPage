@@ -29,3 +29,40 @@ project-folder/
 ├── script.js      # JavaScript for collapsible menu functionality
 └── README.md      # Documentation (this file)
 ```
+## Prerequisites
+
+1. A modern web browser (e.g., Chrome, Firefox, Edge).
+2. A text editor (e.g., VS Code, Sublime Text) if you wish to modify the code.
+3. Basic knowledge of HTML, CSS, and JavaScript (optional).
+
+---
+
+## How to Use
+
+1. **Download or Clone the Repository:**
+   - Clone the repository using Git:
+     ```
+     git clone <repository-url>
+     ```
+   - Or download the ZIP file and extract it.
+
+2. **Navigate to the Project Directory:**
+   ```
+   cd project-folder
+   ```
+
+3. **Open the Project in a Browser:**
+   - Open the `index.html` file in any modern web browser.
+
+4. **Use the Webpage:**
+   - Interact with the left menu toggle button to collapse or expand the menu.
+   - Read about football in the main content area.
+
+---
+
+## Running the Project
+
+1. Ensure all files (`index.html`, `style.css`, `script.js`) are in the same directory.
+2. Open the `index.html` file in a web browser by double-clicking it or dragging it into the browser window.
+3. The webpage will load with a fixed navbar, collapsible left menu, main content, and footer.
+4. Use the menu toggle button for interaction.
