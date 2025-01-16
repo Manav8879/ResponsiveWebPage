@@ -12,7 +12,22 @@ The project consists of the following files:
 
 # Football Fanatics Project Structure
 
-Football-Fanatics/ ├── index1.html # Main HTML file ├── styles1.css # CSS styles for the webpage ├── scripts1.js # JavaScript for functionality and dynamic resizing └── football.jpg # Image used for the "Football" content
+
+### Files
+
+- **index1.html**: This is the main HTML file that includes the structure of the webpage. It links to the CSS and JavaScript files.
+- **styles1.css**: This CSS file contains the styles for the webpage, including layout, colors, fonts, etc.
+- **scripts1.js**: This JavaScript file adds functionality to the webpage, including dynamic resizing and interactive elements.
+- **football.jpg**: This image is used within the content related to football on the webpage.
+
+### How to Use
+
+1. Clone the repository: `git clone <repository-url>`
+2. Open `index1.html` in your web browser to view the webpage.
+3. Customize the styles in `styles1.css` as needed.
+4. Modify `scripts1.js` to add more functionality or adjust existing features.
+
+Feel free to contribute to this project by opening issues or submitting pull requests.
 
 
 ## Prerequisites
