@@ -9,7 +9,9 @@ Dynamic Page Resizing: The page content shrinks based on screen size to optimize
 
 Project Structure
 The project consists of the following files:
-Football-Fanatics/
+
+
+Football-Fanatics
 │
 ├── index1.html           # Main HTML file
 ├── styles1.css           # CSS styles for the webpage
