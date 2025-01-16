@@ -7,9 +7,6 @@ This project is a simple, responsive webpage for football enthusiasts. It featur
 - Left Menu Toggle: A hamburger menu that can be toggled to show or hide the left navigation panel.
 - Dynamic Page Resizing: The page content shrinks based on screen size to optimize viewing on different devices.
 
-## Project Structure
-The project consists of the following files:
-
 # Football Fanatics Project Structure
 
 
