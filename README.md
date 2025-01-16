@@ -1,40 +1,31 @@
-# Football Fanatics Webpage
 
-This project is a simple, responsive webpage for football enthusiasts. It features a collapsible left-side menu and a dynamic layout that adjusts the page content based on the screen width.
+# Responsive Football Webpage
 
 ## Features
-- Responsive Design: The page adjusts its layout and scaling based on different screen widths.
-- Left Menu Toggle: A hamburger menu that can be toggled to show or hide the left navigation panel.
-- Dynamic Page Resizing: The page content shrinks based on screen size to optimize viewing on different devices.
 
-# Football Fanatics Project Structure
+1. **Fixed Navbar**
+   - The navbar remains fixed at the top and is always visible when scrolling.
 
+2. **Three Main Sections**
+   - Left Menu: Collapsible with a toggle button.
+   - Main Content: Includes a description and an image of football.
+   - Right Panel: Placeholder for additional content or features.
 
-### Files
+3. **Footer**
+   - Positioned at the bottom, visible on all screen sizes.
 
-- **index1.html**: This is the main HTML file that includes the structure of the webpage. It links to the CSS and JavaScript files.
-- **styles1.css**: This CSS file contains the styles for the webpage, including layout, colors, fonts, etc.
-- **scripts1.js**: This JavaScript file adds functionality to the webpage, including dynamic resizing and interactive elements.
-- **football.jpg**: This image is used within the content related to football on the webpage.
+4. **Responsive Design**
+   - Ensures proper rendering on various screen sizes, including mobile, tablet, and desktop.
 
-### How to Use
+---
 
-1. Clone the repository: `git clone <repository-url>`
-2. Open `index1.html` in your web browser to view the webpage.
-3. Customize the styles in `styles1.css` as needed.
-4. Modify `scripts1.js` to add more functionality or adjust existing features.
+## File Structure
 
-Feel free to contribute to this project by opening issues or submitting pull requests.
-
-
-## Prerequisites
-To run this project, you need:
-- A modern web browser (Google Chrome, Mozilla Firefox, Safari, etc.).
-- No installation is required as it's a static webpage.
-
-## Running the Project
-### Download or Clone the Repository
-To clone the project, use the following command:
-```bash
-git clone <repository_url>
-
+```
+project-folder/
+│
+├── index.html     # HTML structure of the webpage
+├── style.css      # CSS styles for layout and design
+├── script.js      # JavaScript for collapsible menu functionality
+└── README.md      # Documentation (this file)
+```
