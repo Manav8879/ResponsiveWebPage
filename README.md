@@ -5,6 +5,8 @@ Features
 Responsive Design: The page adjusts its layout and scaling based on different screen widths.
 Left Menu Toggle: A hamburger menu that can be toggled to show or hide the left navigation panel.
 Dynamic Page Resizing: The page content shrinks based on screen size to optimize viewing on different devices.
+
+
 Project Structure
 The project consists of the following files:
 Football-Fanatics/
