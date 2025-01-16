@@ -1,5 +1,4 @@
-# ResponsiveWebPage
-Football Fanatics Webpage
+Football Fanatics Webpage:
 This project is a simple, responsive webpage for football enthusiasts. It features a collapsible left-side menu and a dynamic layout that adjusts the page content based on the screen width.
 
 Features
